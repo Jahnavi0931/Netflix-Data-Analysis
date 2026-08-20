@@ -70,19 +70,23 @@ The following analyses were performed:
 
 ![Release Year Trend](charts/release_year_trend.png)
 
-### 3. Top 10 Netflix Genres
+### 3. Top 10 Release Years
+
+![Top Release Years](charts/top_release_years.png)
+
+### 4. Top 10 Netflix Genres
 
 ![Top Genres](charts/top_genres.png)
 
-### 4. Top 10 Countries
+### 5. Top 10 Countries
 
 ![Top Countries](charts/top_countries.png)
 
-### 5. Top 10 Content Ratings
+### 6. Top 10 Content Ratings
 
 ![Top Ratings](charts/top_ratings.png)
 
-### 6. Movie Duration Distribution
+### 7. Movie Duration Distribution
 
 ![Movie Duration](charts/movie_duration.png)
 
