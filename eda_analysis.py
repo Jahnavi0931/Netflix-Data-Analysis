@@ -219,3 +219,20 @@ plt.ylabel("Number of Movies")
 plt.tight_layout()
 plt.savefig("charts/movie_duration.png")
 plt.show()
+
+
+# Top 10 release years
+
+top_years = df["release_year"].value_counts().head(10)
+
+plt.figure(figsize=(10, 5))
+top_years.sort_index().plot(kind="bar")
+
+plt.title("Top 10 Release Years")
+plt.xlabel("Release Year")
+plt.ylabel("Number of Titles")
+plt.xticks(rotation=45)
+
+plt.tight_layout()
+plt.savefig("charts/top_release_years.png")
+plt.show()
