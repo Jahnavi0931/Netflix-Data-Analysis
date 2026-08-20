@@ -59,7 +59,7 @@ The following analyses were performed:
 - The average movie duration was approximately 99.1 minutes.
 - The dataset contains 0 duplicate rows.
 - Missing values were found mainly in the Director, Cast, and Country columns.
-
+- The top 10 release years show that Netflix has a large concentration of titles released in recent years, with 2018 having the highest count in the dataset.
 ## Visualizations
 
 ### 1. Movies vs TV Shows
